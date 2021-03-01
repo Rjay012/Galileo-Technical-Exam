@@ -1,0 +1,23 @@
+<html>
+    <head>
+        <title>Exam A</title>
+    </head>
+    <body>
+        <p id="input"></p>
+        <p id="output"></p>
+    </body>
+
+    <script>
+        var string = "theQuickBrownFoxJumpsOverTheLazyDog.";
+        var rebuild = "";
+        var char = '';
+        document.getElementById("input").innerHTML = "INPUT: " + string;
+        for(var i=0; i<string.length; i++)
+        {
+            char = i == 0 ? string.charAt(i).toUpperCase() : string.charAt(i);  //check first character and capitalize
+            rebuild += char == char.toUpperCase() ? " " + char : char;  //check capitalized characters from string and add spaces in between them
+        }
+
+        document.getElementById("output").innerHTML = "OUTPUT: " + rebuild;
+    </script>
+</html>

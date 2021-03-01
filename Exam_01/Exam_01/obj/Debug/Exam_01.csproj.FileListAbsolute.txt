@@ -1,0 +1,7 @@
+C:\Users\Revien Jay\source\repos\ConsoleApp\Galileo Tests\Exam_01\Exam_01\bin\Debug\Exam_01.exe.config
+C:\Users\Revien Jay\source\repos\ConsoleApp\Galileo Tests\Exam_01\Exam_01\bin\Debug\Exam_01.exe
+C:\Users\Revien Jay\source\repos\ConsoleApp\Galileo Tests\Exam_01\Exam_01\bin\Debug\Exam_01.pdb
+C:\Users\Revien Jay\source\repos\ConsoleApp\Galileo Tests\Exam_01\Exam_01\obj\Debug\Exam_01.csprojAssemblyReference.cache
+C:\Users\Revien Jay\source\repos\ConsoleApp\Galileo Tests\Exam_01\Exam_01\obj\Debug\Exam_01.csproj.CoreCompileInputs.cache
+C:\Users\Revien Jay\source\repos\ConsoleApp\Galileo Tests\Exam_01\Exam_01\obj\Debug\Exam_01.exe
+C:\Users\Revien Jay\source\repos\ConsoleApp\Galileo Tests\Exam_01\Exam_01\obj\Debug\Exam_01.pdb

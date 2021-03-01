@@ -1,0 +1,7 @@
+C:\Users\Revien Jay\source\repos\ConsoleApp\Galileo Tests\Loop\Loop\bin\Debug\Loop.exe.config
+C:\Users\Revien Jay\source\repos\ConsoleApp\Galileo Tests\Loop\Loop\bin\Debug\Loop.exe
+C:\Users\Revien Jay\source\repos\ConsoleApp\Galileo Tests\Loop\Loop\bin\Debug\Loop.pdb
+C:\Users\Revien Jay\source\repos\ConsoleApp\Galileo Tests\Loop\Loop\obj\Debug\Loop.csprojAssemblyReference.cache
+C:\Users\Revien Jay\source\repos\ConsoleApp\Galileo Tests\Loop\Loop\obj\Debug\Loop.csproj.CoreCompileInputs.cache
+C:\Users\Revien Jay\source\repos\ConsoleApp\Galileo Tests\Loop\Loop\obj\Debug\Loop.exe
+C:\Users\Revien Jay\source\repos\ConsoleApp\Galileo Tests\Loop\Loop\obj\Debug\Loop.pdb
